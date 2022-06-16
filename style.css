@@ -1,0 +1,39 @@
+.h1{
+	text-align: center;
+	background: #ef476f;
+	color: #90e0ef;
+	font-size: 30px;
+	
+}
+i{
+	float: left;
+	width: 97%;
+	padding: 20px;
+}
+.inline{
+	display: inline-block;
+	overflow: hidden;
+}
+.h2{
+	display: inline;
+}
+.paragraph{
+	display: inline;
+}
+.colors {
+	font-size: 35px;
+	color: #00FFAB;
+}
+table, th, td {
+  border: 1px solid black;
+}
+.page{
+	background: #00f5d4;
+	color: #f4e285;
+	font-size: 30px;
+	padding: 5px;
+	text-decoration: none;
+	border: 2px solid #ff5400;
+	text-decoration-style: none;
+	margin-left: 50px;
+}
